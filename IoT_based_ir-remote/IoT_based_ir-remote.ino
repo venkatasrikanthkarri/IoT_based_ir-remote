@@ -1,3 +1,6 @@
+// Author:- K.V.Srikanth.
+// program to control devices using mqtt.
+
 
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
