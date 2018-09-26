@@ -1,8 +1,9 @@
+// Author:- K.V.Srikanth
+// program to decode infra red signals.
+
 // IRremote: IRrecvDump - dump details of IR codes with IRrecv
  
-#include <IRremote.h>
-
-//  Default is Arduino pin D11. 
+#include <IRremote.h>     //  Default is Arduino pin D11. 
 
 int RECV_PIN = 11;
 
